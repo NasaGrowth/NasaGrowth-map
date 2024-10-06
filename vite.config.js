@@ -8,7 +8,7 @@ const cesiumBaseUrl = "cesiumStatic";
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/nasagrowth-map/',
+  base: '/NasaGrowth-map/',
   define: {
     // Define relative base path in cesium for loading assets
     // https://vitejs.dev/config/shared-options.html#define
